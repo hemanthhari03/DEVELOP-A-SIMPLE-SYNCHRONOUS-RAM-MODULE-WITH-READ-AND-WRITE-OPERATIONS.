@@ -20,3 +20,6 @@ The memory has:
 Synchronous read and write operations performed on the rising clock edge
 
 The design was verified using a Verilog testbench, where values were written into memory and then read back to confirm correctness. The functionality was simulated and visualized using waveform tools in Xilinx Vivado.
+
+![Image](https://github.com/user-attachments/assets/8b0a46c2-1e66-4880-b5d8-f28ee5cc978b)
+![Image](https://github.com/user-attachments/assets/649e6571-b678-4058-8103-95e96d0cc1ea)
